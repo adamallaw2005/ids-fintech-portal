@@ -1,0 +1,17 @@
+**/node_modules/
+**/dist/
+**/bin/
+**/obj/
+**/.vs/
+**/.idea/
+/tmp/
+/.submission-check/
+/IDS-Fintech-Portal-Submission.zip
+.env
+.env.*
+!.env.example
+*.user
+*.suo
+*.log
+*.tsbuildinfo
+secrets.json
